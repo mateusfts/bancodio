@@ -1,0 +1,6 @@
+c:\users\mateus\documents\visual studio 2015\Projects\Dio.bank\Dio.bank\bin\Debug\Dio.bank.exe.config
+c:\users\mateus\documents\visual studio 2015\Projects\Dio.bank\Dio.bank\bin\Debug\Dio.bank.exe
+c:\users\mateus\documents\visual studio 2015\Projects\Dio.bank\Dio.bank\bin\Debug\Dio.bank.pdb
+c:\users\mateus\documents\visual studio 2015\Projects\Dio.bank\Dio.bank\obj\Debug\Dio.bank.csprojResolveAssemblyReference.cache
+c:\users\mateus\documents\visual studio 2015\Projects\Dio.bank\Dio.bank\obj\Debug\Dio.bank.exe
+c:\users\mateus\documents\visual studio 2015\Projects\Dio.bank\Dio.bank\obj\Debug\Dio.bank.pdb
